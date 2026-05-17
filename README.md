@@ -36,6 +36,9 @@ print(perro2.emitir_sonido())
 print(perro2.moverse())
 
 
+
+
+
 ''' EJERCICIO 2 
 Crea una clase abstracta CuentaBancaria con los atributos titular y saldo, y dos métodos
 abstractos: cobrar_comision() y mostrar_info(). Crea dos subclases: CuentaAhorros (sin
